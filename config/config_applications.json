@@ -1,0 +1,25 @@
+{
+  "yandex_browser" : {
+    "large_image" : "yandex_browser",
+    "mustHideIf" : ["youtube","porn","hentai","anime"],
+    "status" : "active in browser"
+  },
+  "steam" : {
+    "name" : "Steam",
+    "state" : "Чилит в стиме...."
+  },
+  "discord" : {
+    "large_image": "discord",
+    "mustHideIf" : ["@"],
+    "status": "Private messages "
+  },
+  "pycharm.sh\n" : {
+    "large_image":"pycharm"
+  },
+  "minecraft": {
+    "large_image" : "minecraft"
+  },
+  "nemo": {
+    "large_image" : "linux"
+  }
+}
