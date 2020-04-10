@@ -1,4 +1,4 @@
-from pypresence import Presence # The simple rich presence client in pypresence
+from pypresence import Presence
 import time
 import psutil
 import subprocess
@@ -15,7 +15,6 @@ with open("config/app.json","r") as file:
 client_id = str(data["application_id"])
 get_by_name = data["findRealName"]
 small_image = data["small_image"]
-
 
 
 with open("config/config_applications.json","r") as file:
